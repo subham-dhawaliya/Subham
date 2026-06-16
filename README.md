@@ -2,9 +2,9 @@
 
 # Hi, I'm Subham 👋
 
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skgdhawaliya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-dhawaliya-b6124b378/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge)]([https://yourportfolio.com](https://subham-dhawaliya.github.io/Portfolio/))
 
 </div>
 
@@ -100,11 +100,11 @@ Currently focused on:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skgdhawaliya@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/subham-dhawaliya-b6124b378/))
 
-[![Portfolio](https://img.shields.io/badge/LET'S_CONNECT-1E88E5?style=for-the-badge)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/LET'S_CONNECT-1E88E5?style=for-the-badge)](https://subham-dhawaliya.github.io/Portfolio/)
 
 </div>
 
