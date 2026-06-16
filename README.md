@@ -25,15 +25,11 @@ Currently focused on:
 - Performance Optimization
 - Deployment & Hosting
 
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/subham-dhawaliya/Subham/output/github-snake-dark.svg" alt="snake animation" />
 </p>
-
----
 
 ## 🛠 Tech Stack & Skills
 
