@@ -67,10 +67,9 @@ Currently focused on:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=subham-dhawaliya&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-dhawaliya&layout=compact&theme=tokyonight)
 </div>
 
 ---
